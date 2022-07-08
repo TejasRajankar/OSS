@@ -6,7 +6,6 @@ using WebAPIProject.Models;
 using System.Data.Entity;
 using MySql.Data.EntityFramework;
 //new comment
-//Adding comment
 namespace WebAPIProject.DAL
 {
     [DbConfigurationType(typeof(MySqlEFConfiguration))]
